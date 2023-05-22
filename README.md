@@ -12,10 +12,14 @@ The question_1.ipynb notebook implements an autoencoder using a fully connected 
 Requirements:
 To run the code in question_1.ipynb, the following dependencies are required:
 
-NumPy
-h5py
-matplotlib
-scipy
+-NumPy
+
+-h5py
+
+-matplotlib
+
+-scipy
+
 Instructions:
 
 Open the question_1.ipynb notebook using Jupyter Notebook or JupyterLab.
@@ -29,9 +33,12 @@ The question_2.ipynb notebook focuses on text classification using a trigram-bas
 Requirements:
 To run the code in question_2.ipynb, the following dependencies are required:
 
-NumPy
-h5py
-scikit-learn
+-NumPy
+
+-h5py
+
+-scikit-learn (OneHotEncoder)
+
 Instructions:
 
 Open the question_2.ipynb notebook using Jupyter Notebook or JupyterLab.
@@ -45,9 +52,12 @@ The question_3.ipynb notebook compares the performance of three types of recurre
 Requirements:
 To run the code in question_3.ipynb, the following dependencies are required:
 
-NumPy
-h5py
-scikit-learn
+-NumPy
+
+-h5py
+
+-scikit-learn (train_test_split, confusion_matrix, accuracy_score functions)
+
 Instructions:
 
 Open the question_3.ipynb notebook using Jupyter Notebook or JupyterLab.
